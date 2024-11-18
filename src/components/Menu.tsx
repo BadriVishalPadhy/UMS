@@ -86,8 +86,8 @@ const menuItems = [
       },
       {
         icon: "/announcement.png",
-        label: "Announcements",
-        href: "/list/announcements",
+        label: "Time Table Generator",
+        href: "http://127.0.0.1:5000",
         visible: ["admin", "teacher", "student", "parent"],
       },
     ],
